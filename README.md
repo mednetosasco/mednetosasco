@@ -1,15 +1,15 @@
 <table>
   <tr>
     <td width="120" valign="middle">
-      <img src="logo-mednet.png" width="100">
+      <img src="LOGO MEDNET.png" width="100">
     </td>
     <td valign="middle">
       <h2>Olá, somos a Mednet de Osasco</h2>
     </td>
   </tr>
 </table>
-
 <br>
+
 Bem-vindo ao repositório da **Mednet Osasco**.
 
 Este espaço foi criado com o objetivo de **formalizar e estruturar um canal tecnológico** voltado aos nossos clientes, reunindo **informações técnicas**, materiais de apoio e soluções digitais desenvolvidas para esclarecer dúvidas e facilitar o acesso a conteúdos específicos de forma clara e organizada.
